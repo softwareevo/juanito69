@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background:url(img/universo.jpg);
+    background-size: 100%;
+
+}
+.menu{
+    width: 900px;
+    margin: 0 auto;
+
+}
